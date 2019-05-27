@@ -1,7 +1,8 @@
 ======================================
-Speedml Machine Learning Speed Start
+Zodiac prototype Machine Learning Speed Start
 ======================================
 Target:
+
 I will try to modify this open source to develop my own data analysis tool called:Zodiac
 Which can help data analyst to EDA and modeling  faster and make us focus on extract valuable information instead of coding and wasting time to debug and search document.
 
